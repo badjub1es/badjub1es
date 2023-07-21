@@ -3,7 +3,6 @@
 My names Anthony Arellano and I am a Software Engineer with a love for building full-stack applications. Currently help lead a team at Peloton responsible for migrating an old HTML content management system to a micro frontend React / Typescript eco-system.
 
 ## Check out some of my projects below!
-[![Anthonys's GitHub stats](https://github-readme-stats.vercel.app/api?username=badjub1es)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **badjub1es/badjub1es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
