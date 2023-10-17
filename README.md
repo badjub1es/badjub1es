@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My names Anthony Arellano and I am a Software Engineer with a love for building full-stack applications. Currently help lead a team at Peloton responsible for migrating an old HTML content management system to a micro frontend React / Typescript eco-system.
+My names Anthony Arellano and I am a Software Engineer with a love for building full-stack applications. Currently help lead a team at Peloton responsible for migrating and maintaining an internal content management system. Always happy to nerd out on some new tech!
 
 ## Check out some of my projects below!
 <!--
