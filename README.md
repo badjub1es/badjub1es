@@ -2,6 +2,8 @@
 
 My names Anthony Arellano and I am a Software Engineer with a love for building full-stack applications. Currently help lead a team at Peloton responsible for migrating and maintaining an internal content management system. Always happy to nerd out on some new tech!
 
+Work GitHub account can be found [here](https://github.com/anthonyarellano).
+
 ## Check out some of my projects below!
 <!--
 **badjub1es/badjub1es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
